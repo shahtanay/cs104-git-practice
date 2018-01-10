@@ -27,6 +27,6 @@
 *.lib
 
 # Executables
-*hellworld.exe
+*.exe
 *.out
 *.app
